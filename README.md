@@ -1,6 +1,6 @@
 # ExamenUnidad4y5_Patrones_HerreraSandovalJoseMiguel
 Nombre: Herrera Sandoval Jose Miguel
 
-Nombre Proyecto: Renderizado de objetos gráficos en pantalla
+Nombre Proyecto: Renderizado de objetos gráficos en pantalla (utilizando 4 patrones de diseño)
 
-Breve descripción del funcionamiento: El presente proyecto muestra una ejecución por consola, en donde se simula una lluvia artificial utilizando símbolos ASCII, pudiendo modificar la intensidad/velocidad de la lluvia. El patrón Singleton será el motor principal, mientras que Object pool las partículas de lluvia que serán reutilizadas. Creado y Ejecutado en Visual Studio Community 2022 (.NET FrameWork 4.7.2)
+Breve descripción del funcionamiento: El presente proyecto muestra una ejecución por consola, en donde se simula una lluvia artificial utilizando símbolos ASCII. Se utilizaron 4 patrones de diseño, los cuales son: Strategy, Facade, Factory Method y Arquitectura de capas. Creado y Ejecutado en Visual Studio Community 2022 (.NET FrameWork 4.7.2).
