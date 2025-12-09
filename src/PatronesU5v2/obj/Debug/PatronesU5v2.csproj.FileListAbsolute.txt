@@ -1,0 +1,8 @@
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\bin\Debug\PatronesU5v2.exe.config
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\bin\Debug\PatronesU5v2.exe
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\bin\Debug\PatronesU5v2.pdb
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\obj\Debug\PatronesU5v2.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\obj\Debug\PatronesU5v2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\obj\Debug\PatronesU5v2.exe
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\obj\Debug\PatronesU5v2.pdb
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU5v2\PatronesU5v2\obj\Debug\PatronesU5v2.exe.config
